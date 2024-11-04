@@ -1,1 +1,1 @@
-# RubyHW2
+# Ruby Lesson2 homework
